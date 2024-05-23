@@ -1,0 +1,13 @@
+The Apple is yellow
+
+The Banana is red
+
+The Orange is blue
+
+The Watermelon is orange
+
+The Strawberry is blue
+
+The Peach is yellow
+
+The Grapes is green
